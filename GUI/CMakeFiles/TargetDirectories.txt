@@ -1,0 +1,3 @@
+/Users/firefliesqn1102/Downloads/c++/GUI/CMakeFiles/GUI.dir
+/Users/firefliesqn1102/Downloads/c++/GUI/CMakeFiles/edit_cache.dir
+/Users/firefliesqn1102/Downloads/c++/GUI/CMakeFiles/rebuild_cache.dir
